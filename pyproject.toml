@@ -23,7 +23,7 @@ mqtt = ["paho-mqtt>=2,<3"]
 ble = ["bleak>=0.22,<2"]
 mdns = ["zeroconf>=0.136,<1"]
 dev = [
-    "pytest>=8,<9",
+    "pytest>=8,<10",
     "ruff>=0.12,<1",
 ]
 
